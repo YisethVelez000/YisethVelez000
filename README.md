@@ -5,7 +5,7 @@
 ## 💻 Proyectos Destacados
 
 - [iznaflix](https://iznaflix.vercel.app/) – Plataforma de estilo Netflix para el grupo IZNA.
-- [Mi Portafolio Personal](https://portafolio-alison-puerta.vercel.app/) – Descubre más sobre mí, mis habilidades y trabajos.
+- [Mi Portafolio Personal](https://alison-puerta.vercel.app/) – Descubre más sobre mí, mis habilidades y trabajos.
 
 ## 🚀 Tecnologías y Habilidades
 
@@ -21,7 +21,7 @@ Actualmente, sigo mejorando mis habilidades en Java y explorando frameworks y he
 ## 📫 Contacto
 
 ¿Quieres saber más o colaborar?  
-Visita mi [portafolio](https://portafolio-alison-puerta.vercel.app/) para ver más información y formas de contactarme.
+Visita mi [portafolio](https://alison-puerta.vercel.app/)para ver más información y formas de contactarme.
 
 ---
 
