@@ -21,7 +21,7 @@ Actualmente, sigo mejorando mis habilidades en Java y explorando frameworks y he
 ## 📫 Contacto
 
 ¿Quieres saber más o colaborar?  
-Visita mi [portafolio](https://alison-puerta.vercel.app/)para ver más información y formas de contactarme.
+Visita mi [portafolio](https://alison-puerta.vercel.app/) para ver más información y formas de contactarme.
 
 ---
 
