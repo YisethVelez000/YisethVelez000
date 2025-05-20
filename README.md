@@ -4,13 +4,14 @@
 
 ## 💻 Proyectos Destacados
 
-- [iznaflix](https://iznaflix.vercel.app/) – Plataforma de streaming de películas y series.
+- [iznaflix](https://iznaflix.vercel.app/) – Plataforma de estilo Netflix para el grupo IZNA.
 - [Mi Portafolio Personal](https://portafolio-alison-puerta.vercel.app/) – Descubre más sobre mí, mis habilidades y trabajos.
 
 ## 🚀 Tecnologías y Habilidades
 
-- **Lenguajes:** Java (nivel junior)
+- **Lenguajes:** Java (nivel junior), Php, Python, JavaScript
 - **Herramientas:** Git, GitHub, Vercel
+- **Bases de Datos:** Mysql, Sql Server, Mongo DB
 - **Intereses:** Desarrollo backend, web, bases de datos, proyectos colaborativos
 
 ## 🌱 Aprendiendo
