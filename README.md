@@ -24,5 +24,5 @@ Actualmente, sigo mejorando mis habilidades en Java y explorando frameworks y he
 Visita mi [portafolio](https://alison-puerta.vercel.app/) para ver más información y formas de contactarme.
 
 ---
-
+![YisethVelez000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YisethVelez000&theme=tokyonight&hide_border=false)
 ¡Gracias por visitar mi perfil! 
