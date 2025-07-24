@@ -66,9 +66,6 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-
-## 📈 Estadísticas de GitHub
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YisethVelez000&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
