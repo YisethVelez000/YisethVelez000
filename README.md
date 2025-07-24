@@ -67,7 +67,14 @@
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YisethVelez000&theme=tokyonight&hide_border=false)
+![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YisethVelez000&show_icons=true&theme=tokyonight&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisethVelez000&layout=compact&theme=tokyonight&hide_border=false)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YisethVelez000&theme=tokyo-night&hide_border=false)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YisethVelez000&style=flat&color=blue)
+![Followers](https://img.shields.io/github/followers/YisethVelez000?label=Seguidores&style=flat&color=blue)
 
 ---
 
