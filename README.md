@@ -27,7 +27,12 @@
 
 ### 🧰 Herramientas
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Wildfly](https://img.shields.io/badge/Wildfly-000000?style=flat&logo=wildfly&logoColor=white)
+![Glassfish](https://img.shields.io/badge/GlassFish-333333?style=flat&logo=glassfish&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
@@ -42,17 +47,21 @@
 ## 🌱 Actualmente Aprendiendo
 
 - Profundizando en el lenguaje **Java**
-- Explorando frameworks modernos para el desarrollo web
+- Explorando frameworks modernos como **Spring Boot**, **Hibernate**, **Jakarta EE**
+- Herramientas como **IntelliJ IDEA** y **Glassfish**
+- Desarrollo de aplicaciones fullstack con **Angular**, **React** y servicios **REST**
 - Mejores prácticas en diseño backend y arquitectura de software
 
 ---
 
 ## 📜 Certificaciones
 
-
-- 🥇 [CURSO BACKEND JAVA ](#) – EAFIT
-- 🥈 [CREACION DE MODELOS Y APLICACION DE ALGORITMOS DE CLASIFICACION DE DATOS CON PYTHON](#) – SENA
-- 🥉 [ANALISIS Y DESARROLLO DE SOFTWARE](#) - SENA
+- 🥇 [CURSO BACKEND JAVA ](#) – EAFIT  
+- 🥈 [CREACIÓN DE MODELOS Y APLICACIÓN DE ALGORITMOS DE CLASIFICACIÓN DE DATOS CON PYTHON](#) – SENA  
+- 🥉 [ANÁLISIS Y DESARROLLO DE SOFTWARE](#) - SENA  
+- 🎓 [**Universidad Java - Udemy (Actualizado 2025)**](https://www.udemy.com/course/universidad-java/)  
+  Curso en progreso de +150 horas, actualizado con **Java 21**, **Spring Boot 3**, **Hibernate 6**, **Jakarta EE 11**, **Glassfish 8**, **IntelliJ IDEA**, y más.  
+  Incluye múltiples proyectos reales: escritorio, web, REST, y fullstack (Angular, React).
 
 ---
 
