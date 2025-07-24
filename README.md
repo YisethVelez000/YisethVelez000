@@ -67,14 +67,19 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YisethVelez000&show_icons=true&theme=tokyonight&hide_border=false)
+## 📈 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisethVelez000&layout=compact&theme=tokyonight&hide_border=false)
+<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YisethVelez000&theme=tokyo-night&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YisethVelez000&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisethVelez000&layout=compact&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YisethVelez000&theme=tokyo-night&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YisethVelez000&style=flat&color=blue)
 ![Followers](https://img.shields.io/github/followers/YisethVelez000?label=Seguidores&style=flat&color=blue)
+
+</div>
 
 ---
 
