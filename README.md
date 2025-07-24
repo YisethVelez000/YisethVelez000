@@ -47,14 +47,12 @@
 
 ---
 
-## 📜 Certificaciones *(opcional)*
+## 📜 Certificaciones
 
-<!-- Descomenta esto si tienes certificaciones que quieras mostrar -->
-<!--
+
 - 🥇 [CURSO BACKEND JAVA ](#) – EAFIT
 - 🥈 [CREACION DE MODELOS Y APLICACION DE ALGORITMOS DE CLASIFICACION DE DATOS CON PYTHON](#) – SENA
 - 🥉 [ANALISIS Y DESARROLLO DE SOFTWARE}(#) - SENA
--->
 
 ---
 
